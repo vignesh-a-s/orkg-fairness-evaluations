@@ -1,4 +1,10 @@
-,resource_url,research_field,fair_score,fair_score_max,fair_score_pct,findability_pct,accessibility_pct,interoperability_pct,reusability_pct,f1_metadata_identifier_persistence,a1.2_metadata_authorization,f1_unique_identifier,a1.2_data_authorization,f3_metadata_identifier_in_metadata,a2_metadata_persistence,i2_metadata_uses_fair_vocabularies_strong,i2_metadata_uses_fair_vocabularies_weak,r1.1_metadata_includes_license_weak,f1_data_identifier_persistence,i1_metadata_kr_language_weak,f2_grounded_metadata,i1_data_kr_language_strong,i3_metadata_contains_outward_links,r1.1_metadata_includes_license_strong,i1_data_kr_language_weak,f3_data_identifier_in_metadata,f4_searchable,f2_structured_metadata,a1.1_data_protocol,a1.1_metadata_protocol,i1_metadata_kr_language_strong
-0,10.1021/nn400026u,Analytical Chemistry,4.0,22.0,18.18,25.0,40.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,10.22606/gr.2017.23005,Earth Sciences,9.0,22.0,40.91,50.0,40.0,42.86,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+,resource_url,research_field,fair_score,fair_score_max,fair_score_pct,findability_pct,accessibility_pct,interoperability_pct,reusability_pct,f1_metadata_identifier_persistence,f1_unique_identifier,a1.2_metadata_authorization,f2_structured_metadata,i3_metadata_contains_outward_links,f2_grounded_metadata,a1.2_data_authorization,i1_data_kr_language_strong,i1_data_kr_language_weak,a1.1_data_protocol,i1_metadata_kr_language_weak,f3_metadata_identifier_in_metadata,i2_metadata_uses_fair_vocabularies_strong,r1.1_metadata_includes_license_weak,f3_data_identifier_in_metadata,f1_data_identifier_persistence,i1_metadata_kr_language_strong,a2_metadata_persistence,r1.1_metadata_includes_license_strong,a1.1_metadata_protocol,i2_metadata_uses_fair_vocabularies_weak,f4_searchable
+0,10.1021/nn400026u,Analytical Chemistry,4,22,18.18,25.0,40.0,0.0,0.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1,10.22606/gr.2017.23005,Earth Sciences,10,22,45.45,62.5,40.0,42.86,0.0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+2,10.1007/s12594-016-0509-3,Earth Sciences,11,22,50.0,62.5,40.0,57.14,0.0,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0
+3,10.18520/CS/V106/I1/40-49,Earth Sciences,4,22,18.18,25.0,40.0,0.0,0.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+4,10.1016/j.jseaes.2011.01.004,Earth Sciences,12,22,54.55,62.5,40.0,71.43,0.0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0
+5,10.1016/j.rsase.2020.100306,Earth Sciences,12,22,54.55,62.5,40.0,71.43,0.0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0
+6,10.1016/j.rse.2007.03.015,Earth Sciences,12,22,54.55,62.5,40.0,71.43,0.0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0
+7,10.1109/TGRS.2003.812908,Earth Sciences,12,22,54.55,62.5,40.0,71.43,0.0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0
+8,10.2113/gsecongeo.98.5.1019,Earth Sciences,12,22,54.55,62.5,40.0,71.43,0.0,1,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0
